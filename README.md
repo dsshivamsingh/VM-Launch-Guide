@@ -102,9 +102,6 @@ This repository contains comprehensive guides for launching virtual machines (VM
 9. **Delete Your VM:**
    - Go to the console, select your VM, and click `Delete`.
 
-## Follow the Video Tutorial
-For a detailed, step-by-step walkthrough, watch the video tutorial provided in this repository.
-
 ## Contributing
 We welcome contributions from the community! If you have suggestions for improvements or additional features, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss your proposed modifications.
 
